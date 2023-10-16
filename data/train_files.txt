@@ -1,0 +1,11 @@
+Airplane/lambda100/ILSVRC/000002.jpg
+Airplane/lambda100/ILSVRC/000004.jpg
+Airplane/lambda100/ILSVRC/000015.jpg
+Airplane/lambda100/ILSVRC/000013.jpg
+Airplane/lambda100/ILSVRC/000007.jpg
+Airplane/lambda100/ILSVRC/000005.jpg
+Airplane/lambda100/ILSVRC/000009.jpg
+Airplane/lambda100/ILSVRC/000012.jpg
+Airplane/lambda100/ILSVRC/000011.jpg
+Airplane/lambda100/ILSVRC/000010.jpg
+Airplane/lambda100/ILSVRC/000016.jpg

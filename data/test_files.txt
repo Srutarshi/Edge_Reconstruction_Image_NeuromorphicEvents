@@ -1,0 +1,3 @@
+Airplane/lambda100/ILSVRC/000008.jpg
+Airplane/lambda100/ILSVRC/000006.jpg
+Airplane/lambda100/ILSVRC/000014.jpg
